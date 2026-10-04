@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+xgboost
+shap
+streamlit
+fastapi
+uvicorn
+plotly
+joblib
+lifelines
+duckdb
+pyarrow
+google-generativeai
+matplotlib
